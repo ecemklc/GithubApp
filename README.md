@@ -1,5 +1,8 @@
 # GitHub User Profile App
 
+![github](https://github.com/user-attachments/assets/0e0eceec-7b24-4c0f-930f-c4e81d254d3c)
+
+
 This application allows users to search for GitHub profiles and view detailed information about them, including their repositories. It provides a user-friendly interface to explore GitHub profiles and their public repositories.
 
 ## Features
